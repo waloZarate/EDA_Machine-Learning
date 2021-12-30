@@ -1,4 +1,4 @@
-# EDA_Machine-Learning >> README.md
+# EDA_Machine-Learning
 git init
 git add README.md
 git commit .m First commit
